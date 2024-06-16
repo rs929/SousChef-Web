@@ -1,3 +1,7 @@
+# SousChef
+
+SousChef is a user-friendly and innovative app that revolutionizes the way you manage your kitchen and cooking routines. This smart app helps you keep track of the items in your fridge and pantry and matches them with personalized recipes, making meal prep simple and sustainable
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
